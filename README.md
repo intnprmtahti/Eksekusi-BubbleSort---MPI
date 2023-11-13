@@ -2,6 +2,7 @@
 Membahas cara penggunaan program bubble sort pada MPI melalui Ubuntu Desktop
 
 # Topologi MPI Cluster
+
 ![image](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/ca3bc32d-e996-4fe7-be33-6f835eaade04)
 
 # Sebelum Bekerja
@@ -11,6 +12,7 @@ Membahas cara penggunaan program bubble sort pada MPI melalui Ubuntu Desktop
 ## 1. Konfigurasi File
 Buka file /etc/hosts dengan perintah **sudo nano /etc/hosts.** Tambahkan beberapa IP dan aliasnya dari masing-masing komputer. Contoh :
 ## 1.1 Pada Master
+
 ![image](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/931f6700-347b-40c0-81cc-580051d145c4)
 
 ## 1.2 Pada Worker
@@ -26,6 +28,7 @@ Worker 2 :
 >*Lakukan di **Master** dan **Worker***
 ## 2.1 Buat User <br>
 Buat user baru dengan nama yang sama di masing-masing komputer. Kami menamakannya harrypotter. Lakukan dengan menggunakan perintah sudo adduser harrypotter.
+
 ![image](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/4e23e64b-9604-41e6-bc10-4215580ec1bd)
 ## 2.2 Beri Akses Root <br>
 ![image](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/5126481f-4711-41c4-84c6-09f3c9e23fe6)
