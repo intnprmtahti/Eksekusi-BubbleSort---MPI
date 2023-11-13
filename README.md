@@ -103,6 +103,7 @@ Disarankan untuk meletakkannya di  direktori ~/ atau ~/Desktop. Lalu lakukan per
 >*Lakukan di Master*
 
 ![image](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/a698ed8f-f4c7-4cfe-8679-ea97756016a1)
+
 Buka file /etc/exports dengan perintah sudo nano /etc/exports
 Tambahkan baris berikut.
 <shared folder> *(rw,no_root_squash,no_subtree_check)
