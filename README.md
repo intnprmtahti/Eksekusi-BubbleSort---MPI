@@ -2,8 +2,8 @@
 Membahas cara penggunaan program bubble sort pada MPI melalui Ubuntu Desktop
 
 # Topologi MPI Cluster
+![TOPOLOGI](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/411c0f2f-001c-463e-a1c9-a2a60ae59cb3)
 
-![image](https://github.com/intnprmtahti/Eksekusi-BubbleSort---MPI/assets/150001747/ca3bc32d-e996-4fe7-be33-6f835eaade04)
 
 # Sebelum Bekerja
 - Install beberapa package sebagai utilitas yaitu net-tools,dengan perintah **sudo apt install net-tools**
